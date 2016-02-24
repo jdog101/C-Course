@@ -1,0 +1,5 @@
+C:\\Users\\Goat Prime.Goat\\Desktop\\C++\\Fall 2015\Assignment 2\\Bank ATM\\account credentials.txt
+
+C:\\Users\\Goat Prime.Goat\\Desktop\\C++\\Fall 2015\Assignment 2\\Bank ATM\\account balance.txt
+
+C:\\Users\\Goat Prime.Goat\\Desktop\\C++\\Fall 2015\Assignment 2\\Bank ATM\\file addresses.txt
